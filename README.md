@@ -30,11 +30,12 @@ Before running the code, ensure your environment meets the following requirement
 
 ```bash
 pip install -r requirements.txt
-
+```
 Running the Hand Gesture Recognition Model
 To start the hand gesture recognition system:
 
 
 ```bash
 python hands_gesture_recog.py
+```
 This script initiates the hand gesture recognition model, enabling real-time control of the robotic fish using predefined gesture
