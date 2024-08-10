@@ -40,7 +40,7 @@ python hands_gesture_recog.py
 ```
 This script initiates the hand gesture recognition model, enabling real-time control of the robotic fish using predefined gesture
 
-Project Overview
+
 ## Project Overview
 
 ![Project Thumbnail](https://img.youtube.com/vi/m8KHWSsB7OU/0.jpg)
@@ -50,15 +50,16 @@ Project Overview
 See the project in action by watching the demonstration video:
 
 [![Watch the video](https://img.youtube.com/vi/m8KHWSsB7OU/0.jpg)](https://youtu.be/m8KHWSsB7OU)
-Features
+
+## Features
 Real-Time Hand Gesture Recognition: Capable of identifying and responding to various hand gestures for controlling the fish’s movement.
 Voice Command Functionality: Enables voice commands for an intuitive, hands-free control experience.
 Efficient Performance on Jetson Nano: The AI models are optimized for low-latency and efficient processing on Jetson Nano, ensuring smooth operation even with limited hardware resources.
 Contributing
 We welcome contributions! Whether it's fixing bugs, adding features, or improving documentation, feel free to submit a Pull Request.
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
+## Acknowledgments
 Special thanks to Prof. Leehter Yao of Taipei Tech and the AI Robotics course instructor Dr. Rakesh Sanodiya for their guidance and support throughout this project.
