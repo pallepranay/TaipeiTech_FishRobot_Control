@@ -42,8 +42,6 @@ This script initiates the hand gesture recognition model, enabling real-time con
 
 ## Project Overview
 
-![Project Thumbnail](https://drive.google.com/uc?id=1nW95Ls9riBkoTxU4RuW1x_l2E6fbjxEX)
-
 ### Video Demonstration
 
 See the project in action by watching the demonstration video:
