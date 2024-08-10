@@ -40,16 +40,15 @@ python hands_gesture_recog.py
 ```
 This script initiates the hand gesture recognition model, enabling real-time control of the robotic fish using predefined gesture
 
-
 ## Project Overview
 
-![Project Thumbnail](https://img.youtube.com/vi/m8KHWSsB7OU/0.jpg)
+![Project Thumbnail](https://drive.google.com/uc?id=1nW95Ls9riBkoTxU4RuW1x_l2E6fbjxEX)
 
 ### Video Demonstration
 
 See the project in action by watching the demonstration video:
 
-[![Watch the video](https://img.youtube.com/vi/m8KHWSsB7OU/0.jpg)](https://youtu.be/m8KHWSsB7OU)
+[![Watch the video](https://drive.google.com/uc?id=1nW95Ls9riBkoTxU4RuW1x_l2E6fbjxEX)](https://youtu.be/m8KHWSsB7OU)
 
 ## Features
 Real-Time Hand Gesture Recognition: Capable of identifying and responding to various hand gestures for controlling the fish’s movement.
